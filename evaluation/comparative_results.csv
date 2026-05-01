@@ -1,0 +1,6 @@
+Method,Accuracy,Precision,Recall,F1 Macro,AUC-ROC
+SVM (full features),0.9988,0.9991,0.998,0.9986,1.0
+Random Forest (full features),1.0,1.0,1.0,1.0,1.0
+"CNN only (image, 256-dim)",0.95,0.9478,0.9361,0.9416,0.9829
+"NLP only (keyword, 128-dim)",1.0,1.0,1.0,1.0,1.0
+MedFusion-Leuk (all modalities),1.0,1.0,1.0,1.0,1.0

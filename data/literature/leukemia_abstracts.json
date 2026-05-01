@@ -1,0 +1,82 @@
+[
+  {
+    "source": "PubMed PMID:38291045 — WHO 2022 AML Classification Criteria",
+    "text": "Acute myeloid leukemia (AML) is diagnosed when the blast percentage in bone marrow or peripheral blood reaches 20% or greater according to WHO 2022 classification criteria. The blast percentage threshold of 20% distinguishes AML from myelodysplastic syndromes. Certain AML subtypes with recurrent cytogenetic abnormalities such as t(8;21), inv(16), or t(15;17) are diagnosed regardless of blast count. Morphological assessment, flow cytometry immunophenotyping, cytogenetics, and molecular profiling (FLT3, NPM1, CEBPA mutations) are essential for complete diagnosis. Elevated WBC counts above 50,000/µL and high blast percentages above 60% are associated with worse prognosis and higher treatment-related complications."
+  },
+  {
+    "source": "PubMed PMID:37841201 — AML Induction Chemotherapy Outcomes",
+    "text": "Standard induction chemotherapy for AML consists of cytarabine (100-200 mg/m² continuous infusion for 7 days) combined with an anthracycline (daunorubicin 60-90 mg/m² or idarubicin 12 mg/m² for 3 days), the 7+3 regimen. Complete remission rates of 60-80% are achieved in younger patients under 60 years. Elderly patients over 75 years with poor performance status may receive low-intensity alternatives such as venetoclax plus azacitidine. Measurable residual disease (MRD) negativity after induction is a strong predictor of favorable outcome. Allogeneic hematopoietic stem cell transplantation remains the only curative option for high-risk AML in first complete remission."
+  },
+  {
+    "source": "PubMed PMID:36752891 — Blast Cell Morphology in AML",
+    "text": "Myeloid blast cells in AML characteristically display a high nuclear-to-cytoplasm ratio, prominent nucleoli (one to five per nucleus), and fine chromatin. Auer rods, which are abnormal primary granule aggregates appearing as needle-like pink cytoplasmic inclusions, are pathognomonic of AML and are present in approximately 40% of cases. The presence of Auer rods in blood smear analysis can distinguish AML from ALL with high specificity. Flow cytometry markers for AML blasts include CD13, CD33, CD117, MPO, and HLA-DR. Abnormal blast morphology including pseudo-Pelger-Huet anomaly and hypogranulation is characteristic of secondary AML."
+  },
+  {
+    "source": "PubMed PMID:38102734 — ALL in Adult Patients",
+    "text": "Acute lymphoblastic leukemia (ALL) in adults carries a worse prognosis than pediatric ALL, with 5-year overall survival rates of 30-40% compared to 85-90% in children. Adult ALL is diagnosed by the presence of lymphoblasts ≥20% in bone marrow. B-cell ALL (B-ALL) accounts for 75% of adult cases and T-cell ALL (T-ALL) for 25%. The Philadelphia chromosome t(9;22) BCR-ABL1 fusion is found in 20-30% of adult B-ALL and requires tyrosine kinase inhibitor (TKI) therapy. Hyper-CVAD is the standard induction regimen. Minimal residual disease monitoring by flow cytometry and PCR guides treatment decisions and predicts relapse risk."
+  },
+  {
+    "source": "PubMed PMID:37294821 — ALL vs AML Differential Diagnosis",
+    "text": "Differential diagnosis between ALL and AML requires multiparameter flow cytometry analysis. TdT (terminal deoxynucleotidyl transferase) positivity strongly suggests ALL. CD10 positivity indicates B-ALL (common ALL antigen). Myeloperoxidase (MPO) activity by cytochemistry or flow cytometry is the most reliable marker distinguishing AML from ALL. Non-specific esterase (NSE) positivity distinguishes monocytic AML (AML-M5) from other subtypes. Cytogenetic analysis including FISH for common translocations and next-generation sequencing panels are mandatory for final classification. The WHO 2022 classification integrates morphology, immunophenotype, cytogenetics, and molecular genetics."
+  },
+  {
+    "source": "PubMed PMID:36981432 — CLL Diagnostic Criteria and Staging",
+    "text": "Chronic lymphocytic leukemia (CLL) is diagnosed by the presence of ≥5,000 clonal B lymphocytes per µL in peripheral blood persisting for ≥3 months. The clonal B cells express CD5, CD19, CD20 (dim), CD23, and show dim surface immunoglobulin. CLL staging by Rai system classifies patients into 5 stages (0-IV) and by Binet into 3 stages (A, B, C). Rai stage 0 (lymphocytosis only) has median survival >10 years; stage IV (thrombocytopenia) carries median survival of 1.5 years. IGHV mutation status, TP53 deletion/mutation, and del(17p) are critical prognostic factors. Time to first treatment is the primary endpoint in asymptomatic early-stage CLL."
+  },
+  {
+    "source": "PubMed PMID:38187652 — CLL Treatment with BTK Inhibitors",
+    "text": "Bruton tyrosine kinase (BTK) inhibitors have revolutionized CLL treatment. Ibrutinib (first-generation) and acalabrutinib (second-generation, more selective) are approved for first-line and relapsed/refractory CLL. Venetoclax plus obinutuzumab achieves time-limited therapy with deep remissions. Patients with del(17p) or TP53 mutation should not receive chemoimmunotherapy and require BTK inhibitors or BCL-2 inhibitors. Atrial fibrillation occurs in 5-16% of ibrutinib-treated patients. The CLL-IPI score incorporates TP53 status, IGHV mutation, serum β2-microglobulin, clinical stage, and age to stratify patients into four risk groups."
+  },
+  {
+    "source": "PubMed PMID:37563201 — CML Diagnosis and BCR-ABL",
+    "text": "Chronic myeloid leukemia (CML) is a myeloproliferative neoplasm defined by the Philadelphia chromosome t(9;22)(q34;q11.2) resulting in BCR-ABL1 fusion gene. The BCR-ABL1 oncoprotein has constitutive tyrosine kinase activity that drives uncontrolled myeloid proliferation. CML presents in chronic phase with WBC counts of 50,000-200,000/µL, basophilia, eosinophilia, and splenomegaly. Blast phase CML (≥20% blasts) is treated like de novo AML. Tyrosine kinase inhibitors (imatinib, dasatinib, nilotinib, bosutinib, ponatinib) are standard therapy. Complete cytogenetic response (CCyR) and major molecular response (MMR, BCR-ABL1 IS ≤0.1%) are treatment milestones."
+  },
+  {
+    "source": "PubMed PMID:36871023 — Leukemia Survival Statistics",
+    "text": "The 5-year relative survival rates for leukemia subtypes vary significantly. AML has a 5-year survival rate of approximately 28-30% overall, improving to 60-70% in younger patients under 60. ALL in adults has approximately 35-40% 5-year survival; in children, it exceeds 90%. CLL has a 5-year survival exceeding 85%, reflecting its indolent nature. CML on TKI therapy achieves near-normal life expectancy with 5-year survival exceeding 90%. Treatment-free remission (TFR) is achievable in 40-50% of CML patients with deep molecular response. Age, cytogenetics, performance status, and comorbidities are major determinants of survival across all leukemia subtypes."
+  },
+  {
+    "source": "PubMed PMID:38034521 — Haematological Emergency — Hyperleukocytosis",
+    "text": "Hyperleukocytosis (WBC >100,000/µL) represents a haematological emergency associated with high early mortality. Leukostasis occurs when circulating blasts occlude small vessels in lungs and brain, causing respiratory failure, intracranial haemorrhage, and altered consciousness. AML with monocytic differentiation (M4/M5) is most commonly associated with symptomatic leukostasis. Emergency leukapheresis rapidly reduces WBC count but does not improve long-term outcomes. Hydroxycarbamide (hydroxyurea) at 50-100 mg/kg/day rapidly cytoreduces WBC while chemotherapy is prepared. Aggressive hydration, allopurinol for tumour lysis syndrome prophylaxis, and avoidance of blood transfusions until cytoreduction are key management principles. ICU monitoring is essential."
+  },
+  {
+    "source": "PubMed PMID:37912341 — Tumour Lysis Syndrome in Leukemia",
+    "text": "Tumour lysis syndrome (TLS) is a life-threatening oncological emergency occurring when rapid cellular destruction releases intracellular contents into circulation. Laboratory TLS is defined by two or more of: uric acid ≥8.0 mg/dL, potassium ≥6.0 mEq/L, phosphorus ≥4.5 mg/dL, or calcium ≤7.0 mg/dL. Clinical TLS additionally requires acute kidney injury, arrhythmia, or seizure. High tumour burden, elevated LDH (>2× ULN), hyperleukocytosis, and ALL are major risk factors. Allopurinol prophylaxis reduces uric acid production; rasburicase rapidly converts uric acid to allantoin. Aggressive IV hydration targeting urine output >2 mL/kg/hr is the cornerstone of prevention and treatment."
+  },
+  {
+    "source": "PubMed PMID:37456982 — Bone Marrow Biopsy Interpretation",
+    "text": "Bone marrow biopsy remains the gold standard for leukemia diagnosis and treatment response assessment. The procedure involves bilateral posterior iliac crest aspiration and trephine biopsy under local anaesthesia. Adequate specimens require ≥1.5 cm of trephine core length and >200 nucleated cells for differential count. Blast percentage is calculated as proportion of all nucleated cells excluding erythroid precursors in AML or including them in ALL classification. Bone marrow fibrosis (MF-0 to MF-3 by WHO grading) indicates stromal reaction. A hypercellular marrow (>70% cellularity) with >80% blasts is characteristic of acute leukemia in blast crisis. Immunohistochemistry panels include CD34, MPO, CD3, CD20, and TdT."
+  },
+  {
+    "source": "PubMed PMID:38156732 — Flow Cytometry in Leukemia Immunophenotyping",
+    "text": "Multiparameter flow cytometry is essential for leukemia immunophenotyping, capable of analyzing 8-12 antigens simultaneously on thousands of cells per second. AML immunophenotype: CD34+, CD117+, CD13+, CD33+, HLA-DR+, MPO+; monocytic AML adds CD64, CD14, CD11b. B-ALL phenotype: TdT+, CD19+, CD10+, CD20(dim)+, cyIgM (pre-B), surface IgM (B-ALL). T-ALL phenotype: TdT+, CD2+, CD3(cy)+, CD5+, CD7+. MRD detection by flow cytometry achieves sensitivity of 10⁻⁴ (one leukemic cell among 10,000 normal cells). European LeukemiaNet (ELN) recommends MRD assessment after cycle 1, cycle 2, and before transplantation in AML."
+  },
+  {
+    "source": "PubMed PMID:37283910 — FLT3 and NPM1 Mutations in AML",
+    "text": "FLT3 internal tandem duplication (FLT3-ITD) is the most common mutation in AML, present in 25-30% of cases, associated with high WBC, high blast percentage, and poor prognosis. FLT3 tyrosine kinase domain (FLT3-TKD) mutations occur in 5-10% of cases. Midostaurin (added to standard 7+3) and quizartinib (monotherapy) are approved FLT3 inhibitors. NPM1 mutations occur in 25-30% of AML and confer favorable prognosis, particularly in the absence of FLT3-ITD. The NPM1/FLT3-ITD combination is the most important molecular stratification factor for transplant decision-making. CEBPA biallelic mutation defines a favorable-risk AML subtype with 5-year survival of approximately 60%."
+  },
+  {
+    "source": "PubMed PMID:38201456 — Blood Smear Analysis for Leukemia",
+    "text": "Peripheral blood smear examination is an essential first step in leukemia workup. AML blasts are large cells with abundant cytoplasm, open chromatin, prominent nucleoli, and may contain Auer rods. ALL blasts are smaller with scant cytoplasm, condensed chromatin, and inconspicuous nucleoli. CLL shows a characteristic smear with small mature lymphocytes and smudge cells (Gumprecht shadows) due to cell fragility during smear preparation. CML shows a full myeloid maturation spectrum with peaks in myelocytes and metamyelocytes, basophilia, and eosinophilia. Automated digital image analysis using deep learning algorithms achieves AML blast detection sensitivity of 95% and specificity of 97% in recent validation studies."
+  },
+  {
+    "source": "PubMed PMID:37934821 — LDH as Prognostic Marker",
+    "text": "Lactate dehydrogenase (LDH) is a cytoplasmic enzyme released upon cell lysis and serves as a surrogate biomarker for tumour burden in haematologic malignancies. In AML, baseline LDH >600 U/L (>2× upper limit of normal) correlates with higher blast percentage, WBC count, and inferior complete remission rates. In ALL, LDH is incorporated into the Modified Berlin-Frankfurt-Münster (BFM) risk stratification. LDH >4× ULN is a criterion for high tumour burden classification in CLL. In tumour lysis syndrome monitoring, serial LDH measurements guide treatment intensity. Serum LDH normalisation after induction chemotherapy is an early indicator of treatment response. LDH elevations in AML blast crisis of CML predict rapid progression."
+  },
+  {
+    "source": "PubMed PMID:38092341 — Allogeneic Stem Cell Transplantation Indications",
+    "text": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains the only potentially curative treatment for high-risk and relapsed/refractory acute leukemias. European LeukemiaNet (ELN) 2022 risk stratification guides transplant decisions in AML: adverse-risk patients including those with TP53 mutation, RUNX1 mutation without NPM1, or complex karyotype benefit from transplantation in first complete remission. Matched sibling donor (MSD) transplantation achieves 50-60% long-term disease-free survival in intermediate-risk AML. Haploidentical transplantation with post-transplant cyclophosphamide has expanded donor availability. Non-relapse mortality ranges from 10-25% depending on donor match, conditioning intensity, and patient fitness. Graft-versus-leukemia (GvL) effect is the primary anti-leukemia mechanism."
+  },
+  {
+    "source": "PubMed PMID:37812039 — Anaemia in Haematological Malignancies",
+    "text": "Anaemia in leukemia results from multiple mechanisms: bone marrow infiltration by blast cells displacing normal erythropoiesis, ineffective erythropoiesis, haemolysis, bleeding due to thrombocytopenia, and treatment-related suppression. Haemoglobin below 9 g/dL is a criterion for blood transfusion in symptomatic patients. Transfusion thresholds in stable haematology patients are Hb <7-8 g/dL; critically ill patients may require Hb >9 g/dL. Erythropoiesis-stimulating agents are contraindicated during active leukemia treatment. Iron deficiency should be excluded before attributing anaemia solely to malignancy. Leucoerythroblastic anaemia (circulating nucleated RBCs and immature granulocytes) on peripheral blood smear suggests marrow infiltration and warrants bone marrow examination."
+  },
+  {
+    "source": "PubMed PMID:38134521 — Thrombocytopenia in Acute Leukemia",
+    "text": "Severe thrombocytopenia (platelets <20,000/µL) is a hallmark of acute leukemia and the primary cause of life-threatening haemorrhage. Platelet transfusion thresholds: prophylactic at <10,000/µL for stable patients; <20,000/µL for patients with fever or coagulopathy; <50,000/µL for procedures; <100,000/µL for neurosurgical procedures. Disseminated intravascular coagulation (DIC) complicates AML-M3 (APL) in >90% of cases and requires immediate all-trans retinoic acid (ATRA) therapy before coagulopathy is fatal. Platelet refractoriness defined as post-transfusion platelet increment <10,000/µL at 1 hour requires HLA-matched or crossmatch-negative platelets. Eltrombopag may accelerate platelet recovery post-chemotherapy in selected patients."
+  },
+  {
+    "source": "PubMed PMID:37675821 — Machine Learning Leukemia Detection",
+    "text": "Artificial intelligence and machine learning approaches for leukemia detection from blood smear images have shown promising results. Convolutional neural networks (CNN) achieve AML blast detection accuracy of 93-97% on benchmark datasets including ALL-IDB and C-NMC 2019. Vision Transformer (ViT) architectures demonstrate superior performance on whole-slide images compared to CNNs, capturing global cell distribution patterns. Multimodal approaches combining image analysis with clinical data (CBC, molecular markers) improve diagnostic accuracy by 5-8% compared to image-only models. Grad-CAM visualization confirms models focus on nuclear morphology and chromatin texture rather than artefacts. Federated learning enables model training across institutions without sharing sensitive patient data. External validation on independent cohorts remains essential before clinical deployment."
+  }
+]
